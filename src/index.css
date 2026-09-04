@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Noto Sans TC', sans-serif;
+  --font-serif: 'Noto Sans TC', sans-serif;
+}
+
+body {
+  background-color: #FDFCF8;
+}

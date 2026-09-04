@@ -1,0 +1,6 @@
+{
+  "name": "BaiBai｜祭祀日程及供奉指南",
+  "description": "自動推算重要民俗節慶的農曆正日與建議返鄉祭拜日，並提供傳統拜拜供品檢核清單與自訂功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
